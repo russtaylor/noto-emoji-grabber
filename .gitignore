@@ -1,0 +1,4 @@
+.cache/
+out/
+.DS_Store
+existing-noto-emoji.txt
